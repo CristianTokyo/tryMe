@@ -8,3 +8,5 @@ alias.st status
 alias.lg 'log --oneline'
 
 Change in master
+
+commit msg edit
